@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://cdn.bss.com.pk/branding/logo/rasters/combination-mark/default.png" alt="Barakah Sustainable Solutions Logo" style="max-width: 512px; padding: 32px;">
+    <img src="https://cdn.bss.com.pk/branding/logo/rasters/combination-mark/default.png" width="512px" alt="Barakah Sustainable Solutions Logo" />
 </p>
 
 ## Who are we?
