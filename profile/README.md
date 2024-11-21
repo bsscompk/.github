@@ -4,11 +4,11 @@
 
 ## Who are we?
 
-We develop IT solutions that aim to revolutionize industry standards. Our mission is to help businesses embrace a smarter, more eco-conscious future that not only enhances efficiency but also makes a positive impact on the world.
+We are a technology company dedicated to designing and delivering innovative IT solutions. Our mission is to help businesses embrace a smarter and more eco-conscious future—one that not only enhances efficiency but also creates a positive impact on the world.
 
-## Get in Touch
+## Got questions?
 
-Got questions? We'd love to hear from you! Drop us an email at:
+We'd love to hear from you! Drop us an email at:
 **[reach@bss.com.pk](mailto:reach@bss.com.pk)**
 
 Feel free to reach out anytime! We're here to help you on your journey towards sustainability.
